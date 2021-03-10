@@ -1,0 +1,10 @@
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\bin\Debug\DOB_remainder.exe.config
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\bin\Debug\DOB_remainder.exe
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\bin\Debug\DOB_remainder.pdb
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.csprojAssemblyReference.cache
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.Form1.resources
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.Properties.Resources.resources
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.csproj.GenerateResource.cache
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.csproj.CoreCompileInputs.cache
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.exe
+C:\Users\gokul\source\repos\DOB_remainder\DOB_remainder\obj\Debug\DOB_remainder.pdb
